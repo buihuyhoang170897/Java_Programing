@@ -1,6 +1,5 @@
 # Các Từ Khóa Cơ Bản trong Java
-Java có nhiều từ khóa quan trọng, mỗi từ khóa đều có một vai trò cụ thể trong việc định nghĩa cấu trúc và hành vi của chương trình. Dưới đây là danh sách các từ khóa cơ bản trong Java và giải thích ngắn gọn về từng từ khóa:
-
+Java có nhiều từ khóa quan trọng, mỗi từ khóa định nghĩa cấu trúc và hành vi của chương trình. Đây là danh sách các từ khóa cơ bản của Java cùng với một giải thích ngắn gọn về từng từ:
 - public: Được sử dụng để chỉ ra rằng lớp, phương thức hoặc biến có thể được truy cập từ bất kỳ đâu.
 
 Ví dụ: public class MyClass {}
@@ -75,3 +74,5 @@ Ví dụ: enum Day { MONDAY, TUESDAY, ... }
 - throw, throws: Dùng để ném ngoại lệ.
 
 Ví dụ: throw new Exception("Error");
+
+Những từ khóa này là những thành phần cơ bản cần thiết để xây dựng chương trình Java hiệu quả. Biết cách sử dụng các từ khóa sẽ giúp bạn hiểu cách Java được tạo ra và viết mã nguồn sạch, dễ bảo trì.
