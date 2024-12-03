@@ -22,7 +22,7 @@ Trước khi bắt đầu, bạn cần thêm thư viện Apache POI vào dự á
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>5.2.3</version> <!-- Đảm bảo dùng phiên bản mới nhất -->
+    <version>5.3.0</version> <!-- Đảm bảo dùng phiên bản mới nhất -->
 </dependency>
 ```
 
