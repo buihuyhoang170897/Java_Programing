@@ -19,6 +19,11 @@ Khai báo biến trong Java rất đơn giản:
 
 Ví dụ:
 ```java
+int age;
+double salary;
+char grade;
+boolean isActive;
+String name;
 int age = 25; // Biến số nguyên
 String name = "Java"; // Biến chuỗi
 // Khởi tạo sau khi khai báo
